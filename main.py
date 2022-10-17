@@ -1,5 +1,1 @@
-print('hello')
-print('hello')
-print('hello from git')
-print('hello')
-print('hello again')
+print('main.py')
